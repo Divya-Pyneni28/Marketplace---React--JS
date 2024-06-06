@@ -1,0 +1,40 @@
+.artist-container {
+    display: flex;
+    align-items: center;
+    margin-top: 280px; 
+    margin-left: -240px;
+  }
+  
+  .artist-image {
+    width: 68px; 
+    height: 68px;
+    border-radius: 42.5px; 
+    top: 438px;
+    left: 155px;
+  }
+  
+  .artist-info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px; 
+  }
+  
+  .artist-label {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.52px;
+    color: var(--gay-2, #617587);
+
+  }
+  
+  .artist-name {
+    margin-top: 5px; 
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+    color: #23252B;
+    margin-top: -10px;
+  }
+  

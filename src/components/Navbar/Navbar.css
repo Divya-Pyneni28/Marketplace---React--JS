@@ -1,0 +1,59 @@
+nav{
+    
+    position: fixed;
+    width: 1352px;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1000; /* Ensure the navbar stays on top */
+    
+
+}
+
+
+.logo{
+    position: absolute;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 38.73px;
+    text-align: left;
+    color: #23252B;
+    }
+
+
+a{
+    width: 255px;
+    height: 39px;
+    top: 47px;
+    left: 79px;
+    text-decoration: none;
+  }
+  
+  button{ 
+    position: absolute;
+    width: 203px;
+    height: 67px;
+    border-radius: 87px;
+    padding: 24px 42px;
+    top: 33px;
+    left:1238px ;
+    border: 1px solid var(--Black, #23252B);
+    background-color: #fff;
+}
+
+
+.connect-to-wallet{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+}
+
+
+.account{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+}
+

@@ -1,0 +1,159 @@
+
+
+.wallet-details-box {
+    position: absolute;
+    top: 50px; /* Adjust this value to position the box below the button */
+    right: 10px; /* Adjust this value to position the box horizontally */
+    background-color: #fff;
+    border: 2px solid #02071D;
+    border-radius: 19px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 459px;
+    height: 981px;
+  }
+
+
+  .wallet-details-box {
+    position: fixed;
+    top: 50px; /* Adjust the initial top position as needed */
+    right: 10px; /* Adjust the initial right position as needed */
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: top 0.3s ease; /* Add transition for smooth movement */
+  }
+
+
+  .wallet-details-box img{
+    width: 223px;
+    height: 50px;
+    margin: 20px;
+  }
+  
+  
+  .wallet-details-box span{
+    position: absolute; 
+    background: #02071D;
+    width: 30px;
+    height: 30px;
+    top:40px;
+    border-radius: 50%;
+    margin-left: 350px;
+  }
+
+
+
+  .arrow-symbol {
+    width: 18.75px;
+    height: 12.5px;
+    top: 8.75px;
+    left: 17.5px;
+    border: 2px;
+    font-size: 24px;
+    rotate: -180;
+    margin-right: 20px;
+    color: #fff;
+    text-align: left;
+
+  }
+
+
+  .text{
+    width: 282.68px;
+    height: 68px;
+    margin-top: 40px;
+    margin-left: 20px;
+  }
+
+
+  .small-text{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.93px;
+    letter-spacing: 0.05em;
+    color: #7B7B7B;
+    width: 280.68px;
+    height: 41px;
+  }
+
+
+.big-text{
+    width: 267px;
+    height: 52px;
+    margin-top: -30px;
+    color: #02071D;
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 60.8px;
+
+  }
+
+
+
+.main-text{
+    width: 121px;
+    height: 29px;
+    margin-top: 125px;
+    margin-left: 20px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 29.05px;
+    text-align: left;
+    color: #000000;
+
+  }
+
+.desc{
+    width: 315px;
+    height: 29px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.05px;
+    color: var(--gay-2, #617587);
+  }
+  
+  .btn-container{
+width: 248px;
+height: 67px;
+margin-top: 100px;
+margin-left: 100px;
+margin-right: 50px;
+padding: 24px;
+gap: 16px;
+border-radius: 87px ;
+background: #23252B;
+
+
+  }
+
+.start-shipping{
+
+    width: 115px;
+    height: 19px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+    color: var(--White, #FAFAFA);
+    margin-left: 40px;
+   
+
+}
+
+.nft-image {
+  width: 391px !important; /* Adjust as needed */
+  height: 227px !important; /* Adjust as needed */
+  border-radius: 47px;
+}
+
+
+

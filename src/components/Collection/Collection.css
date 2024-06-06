@@ -1,0 +1,121 @@
+.heading{
+    width: 136px;
+    height: 29px;
+    margin-top: 822px;
+    margin-left: 80px;
+    color: #000000;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 29.05px;
+}
+
+
+.collection-section {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 100px;
+  }
+  
+  .collection-card {
+    width: 424px;
+    height:529px;
+    margin: 10px;
+    margin-left: 80px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 47px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 66px 0px #00000029;
+    background: #FAFAFA;
+
+  }
+  
+  .collection-image {
+    width: 391px;
+    height: 227px;
+    border-radius: 47px;
+   margin: 0;
+   padding-right: 8px;
+  }
+  
+  
+  /* Collection.css */
+.collection-title {
+    width: 115px;
+    height: 29px;
+    margin-top: 35px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29.05px;
+    color: #000000; 
+    display: inline-block;
+  }
+  
+  .collection-label {
+    display: inline-block;
+    background: #E1EDD9;
+    margin-left: 140px; 
+    color: var(--Black, #23252B);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.52px;
+    border-radius: 49px;
+    width: 118px;
+    height: 33px;
+    padding: 9px 35px;
+  }
+  
+  
+  .price {
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14.52px;
+    color: var(--gay-2, #617587);
+
+  }
+  
+  .description {
+    margin-top: 10px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: var(--Black, #23252B);
+  }
+  
+  .go-to-collection-btn {
+    
+    background-color: #FAFAFA;
+    color: var(--Black, #23252B);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: Fixed (248px)px;
+    height: Hug (67px)px;
+    top: 97px;
+    left: 87px;
+    margin-left: 100px;
+    margin-top: 900px;
+    padding: 24px;
+    gap: 16px;
+    border-radius: 87px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+  }
+  
+  .go-to-collection-btn:hover {
+    background-color: #b5b8bb;
+  }
+
+  .art{
+
+    width: 140px;
+    height: 40px;
+  }
+  

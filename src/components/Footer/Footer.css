@@ -1,0 +1,33 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #E6E9F2;
+    color: #FFFFFF;
+    border-top: 1px solid #ddd;
+  }
+  
+  .footer-image img {
+    width: 176px;
+    height: 27px;
+    margin-left: 46px;
+  }
+  
+  .social-media-icons {
+    display: flex;
+    gap: 18px;
+    width: 210.06px;
+    height: 26px;
+  }
+  
+  .social-media-icons a img {
+    width: 14.19px;
+    height: 26px;
+    transition: transform 0.3s;
+  }
+  
+  .social-media-icons a img:hover {
+    transform: scale(1.1);
+  }
+  

@@ -1,0 +1,127 @@
+
+
+
+.trending-container {
+    width: 1352px;
+    height: 518px;
+    position: absolute;
+    top: 183px;
+    left: 80px;
+    border: 1px solid #23252B;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 30px;
+    background: #E6E9F2;
+    display: flex;
+  }
+  
+  .text-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+  }
+  
+  .labell {
+    background: #FADFE4;
+    display: flex;
+    width: 150px;
+    height: 33px;
+    margin-top: 44px;
+    margin-left: 154px;
+    border-radius: 49px;
+    opacity: 0px;
+    padding: 9px 35px 9px 35px;
+    gap: 10px;
+    margin-bottom: 30px;
+    
+
+  }
+  
+  .labell-text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14.52px;
+    color: #23252B;
+  }
+  
+  .colection {
+    height: 29px;
+    margin-left: 154px;
+    color: #617587;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.05px;
+    margin-top: -5px;
+  }
+  
+  .title {
+    height: 77px;
+    margin-left: 154px;
+    font-family: 'Inter', sans-serif;
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 77.45px;
+    color: #000000;
+    margin-top: -35px;
+  }
+  
+  .artist-content {
+   width: 68px;
+   height: 68px;
+   margin-top: -35px;
+   border-radius: 42.5px;
+  }
+  
+  .image-content{
+    width: 437px;
+    height: 411px;
+    margin-top: 30px;
+    margin-right: 50px;
+    left: 828px;
+    gap: 0px;
+    border-radius: 52px;
+    opacity: 0px;
+    position: absolute;
+    display: flex;
+
+  }
+  .buttons{
+   
+    border-radius: 87px;
+    width: Fixed 248px;
+    height: 67px;
+    padding: 24px;
+    gap: 16px;
+    
+
+
+  }
+  .buy{
+    margin-left: -1065px;
+    margin-top: 350px;  
+    background: #23252B;
+    color: var(--White, #FAFAFA);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+  }
+.see{
+    margin-left: -820px;
+    margin-top: 350px;  
+    color: var(--Black, #23252B);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+    border: 1px solid var(--Black, #23252B);
+    background: #E6E9F2;
+}
+  
+  
+ 
+  
+  
